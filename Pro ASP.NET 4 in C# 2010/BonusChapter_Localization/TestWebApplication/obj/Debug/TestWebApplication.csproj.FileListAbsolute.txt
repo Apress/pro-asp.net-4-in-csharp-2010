@@ -1,0 +1,5 @@
+W:\Data\Personal Folders\Books\ProAspNet20\3rd\FirstDraft\Chapter18\Ch18\TestWebApplication\bin\TestWebApplication.dll
+W:\Data\Personal Folders\Books\ProAspNet20\3rd\FirstDraft\Chapter18\Ch18\TestWebApplication\bin\TestWebApplication.pdb
+W:\Data\Personal Folders\Books\ProAspNet20\3rd\FirstDraft\Chapter18\Ch18\TestWebApplication\obj\Debug\ResolveAssemblyReference.cache
+W:\Data\Personal Folders\Books\ProAspNet20\3rd\FirstDraft\Chapter18\Ch18\TestWebApplication\obj\Debug\TestWebApplication.dll
+W:\Data\Personal Folders\Books\ProAspNet20\3rd\FirstDraft\Chapter18\Ch18\TestWebApplication\obj\Debug\TestWebApplication.pdb

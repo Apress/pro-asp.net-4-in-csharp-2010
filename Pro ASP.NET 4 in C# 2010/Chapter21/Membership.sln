@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Membership", "Demo1\Membership\", "{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/Membership"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Books\ProAspNet20\SecondEdition\FirstDraft\Ch21\Demo1\Membership\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Membership\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Membership"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Books\ProAspNet20\SecondEdition\FirstDraft\Ch21\Demo1\Membership\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Membership\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1284"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MembershipAPI", "Demo2\MembershipAPI\", "{6747653B-8DD8-4CAB-8C6E-5547854EA517}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/MembershipAPI"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Books\ProAspNet20\SecondEdition\FirstDraft\Ch21\Demo2\MembershipAPI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\MembershipAPI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/MembershipAPI"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Books\ProAspNet20\SecondEdition\FirstDraft\Ch21\Demo2\MembershipAPI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\MembershipAPI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1286"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinMembership", "WinMembership\WinMembership.csproj", "{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Debug|.NET.ActiveCfg = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Debug|.NET.Build.0 = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Release|.NET.ActiveCfg = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Release|.NET.Build.0 = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{9F3D278B-527A-4BC9-A00F-135EBB3C0B67}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Debug|.NET.ActiveCfg = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Debug|.NET.Build.0 = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Release|.NET.ActiveCfg = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Release|.NET.Build.0 = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{6747653B-8DD8-4CAB-8C6E-5547854EA517}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Release|.NET.ActiveCfg = Release|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{7F3F5348-5E7E-4A7F-B82D-FBA975D95218}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

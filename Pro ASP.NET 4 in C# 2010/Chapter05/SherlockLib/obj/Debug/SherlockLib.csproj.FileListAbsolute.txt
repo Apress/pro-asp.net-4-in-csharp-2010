@@ -1,0 +1,10 @@
+D:\Code\Pro ASP.NET 2.0\Chapter05\SherlockLib\bin\Debug\SherlockLib.dll
+D:\Code\Pro ASP.NET 2.0\Chapter05\SherlockLib\bin\Debug\SherlockLib.pdb
+D:\Code\Pro ASP.NET 2.0\Chapter05\SherlockLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 2.0\Chapter05\SherlockLib\obj\Debug\SherlockLib.dll
+D:\Code\Pro ASP.NET 2.0\Chapter05\SherlockLib\obj\Debug\SherlockLib.pdb
+D:\Code\Pro ASP.NET 3.5\Chapter05\SherlockLib\bin\Debug\SherlockLib.dll
+D:\Code\Pro ASP.NET 3.5\Chapter05\SherlockLib\bin\Debug\SherlockLib.pdb
+D:\Code\Pro ASP.NET 3.5\Chapter05\SherlockLib\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 3.5\Chapter05\SherlockLib\obj\Debug\SherlockLib.dll
+D:\Code\Pro ASP.NET 3.5\Chapter05\SherlockLib\obj\Debug\SherlockLib.pdb

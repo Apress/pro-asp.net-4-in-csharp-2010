@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "TreeViewAndMenu", "TreeViewAndMenu\", "{960A4D2B-CABC-4022-8345-A20A4B599AAF}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/TreeViewAndMenu"
+		Debug.AspNetCompiler.PhysicalPath = "TreeViewAndMenu\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\TreeViewAndMenu\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/TreeViewAndMenu"
+		Release.AspNetCompiler.PhysicalPath = "TreeViewAndMenu\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\TreeViewAndMenu\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "9719"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{960A4D2B-CABC-4022-8345-A20A4B599AAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{960A4D2B-CABC-4022-8345-A20A4B599AAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

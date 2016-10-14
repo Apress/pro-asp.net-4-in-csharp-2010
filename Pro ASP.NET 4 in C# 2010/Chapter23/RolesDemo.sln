@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "RolesDemo", "RolesDemo\", "{C1463B95-FA72-418B-8BC8-5F37F64F0D56}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/RolesDemo"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter24\Ch24\RolesDemo\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\RolesDemo\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/RolesDemo"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter24\Ch24\RolesDemo\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\RolesDemo\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49208"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WinRoles", "WinRoles\", "{C0F44C51-ED5F-44F9-AC5B-7064BD5C5247}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/WinRoles"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter24\Ch24\WinRoles\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WinRoles\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/WinRoles"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter24\Ch24\WinRoles\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\WinRoles\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49211"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1463B95-FA72-418B-8BC8-5F37F64F0D56}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C1463B95-FA72-418B-8BC8-5F37F64F0D56}.Debug|.NET.Build.0 = Debug|.NET
+		{C0F44C51-ED5F-44F9-AC5B-7064BD5C5247}.Debug|.NET.ActiveCfg = Debug|.NET
+		{C0F44C51-ED5F-44F9-AC5B-7064BD5C5247}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

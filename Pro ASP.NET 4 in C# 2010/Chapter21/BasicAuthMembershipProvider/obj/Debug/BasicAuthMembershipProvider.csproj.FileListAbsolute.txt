@@ -1,0 +1,5 @@
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\BasicAuthMembershipProvider\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\BasicAuthMembershipProvider\bin\Debug\BasicAuthMembershipProvider.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\BasicAuthMembershipProvider\bin\Debug\BasicAuthMembershipProvider.pdb
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\BasicAuthMembershipProvider\obj\Debug\BasicAuthMembershipProvider.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\BasicAuthMembershipProvider\obj\Debug\BasicAuthMembershipProvider.pdb

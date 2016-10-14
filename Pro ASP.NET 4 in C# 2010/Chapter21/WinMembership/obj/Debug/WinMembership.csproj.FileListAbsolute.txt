@@ -1,0 +1,25 @@
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\bin\Debug\ASPNETDB.MDF
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\bin\Debug\aspnetdb_log.LDF
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\bin\Debug\WinMembership.exe.config
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\bin\Debug\WinMembership.exe
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\bin\Debug\WinMembership.pdb
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\obj\Debug\WinMembership.Form1.resources
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\obj\Debug\WinMembership.Properties.Resources.resources
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\obj\Debug\WinMembership.csproj.GenerateResource.Cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\obj\Debug\WinMembership.exe
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter22\Ch22\WinMembership\obj\Debug\WinMembership.pdb
+C:\Work\Ch21\WinMembership\bin\Debug\WinMembership.exe.config
+C:\Work\Ch21\WinMembership\obj\Debug\WinMembership.exe
+C:\Work\Ch21\WinMembership\obj\Debug\WinMembership.pdb
+C:\Work\Ch21\WinMembership\bin\Debug\ASPNETDB.MDF
+C:\Work\Ch21\WinMembership\bin\Debug\aspnetdb_log.LDF
+C:\Work\Ch21\WinMembership\bin\Debug\WinMembership.exe
+C:\Work\Ch21\WinMembership\bin\Debug\WinMembership.pdb
+C:\Work\Ch21\WinMembership\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Ch21\WinMembership\obj\Debug\WinMembership.Form1.resources
+C:\Work\Ch21\WinMembership\obj\Debug\WinMembership.Properties.Resources.resources
+C:\Work\Ch21\WinMembership\obj\Debug\WinMembership.csproj.GenerateResource.Cache
+D:\Code\Pro ASP.NET 4\Chapter21\WinMembership\bin\Debug\WinMembership.exe.config
+D:\Code\Pro ASP.NET 4\Chapter21\WinMembership\obj\Debug\WinMembership.exe
+D:\Code\Pro ASP.NET 4\Chapter21\WinMembership\obj\Debug\WinMembership.pdb

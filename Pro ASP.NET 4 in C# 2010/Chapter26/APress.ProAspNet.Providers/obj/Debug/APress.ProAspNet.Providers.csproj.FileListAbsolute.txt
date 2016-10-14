@@ -1,0 +1,10 @@
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter27\Ch27\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter27\Ch27\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.pdb
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter27\Ch27\APress.ProAspNet.Providers\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter27\Ch27\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter27\Ch27\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.pdb
+C:\Work\Ch26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.dll
+C:\Work\Ch26\APress.ProAspNet.Providers\bin\Debug\APress.ProAspNet.Providers.pdb
+C:\Work\Ch26\APress.ProAspNet.Providers\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Ch26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.dll
+C:\Work\Ch26\APress.ProAspNet.Providers\obj\Debug\APress.ProAspNet.Providers.pdb

@@ -1,0 +1,15 @@
+D:\Code\Pro ASP.NET 3.5\Chapter32\JavaScriptCustomControls\bin\Debug\JavaScriptCustomControls.dll
+D:\Code\Pro ASP.NET 3.5\Chapter32\JavaScriptCustomControls\bin\Debug\JavaScriptCustomControls.pdb
+D:\Code\Pro ASP.NET 3.5\Chapter32\JavaScriptCustomControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 3.5\Chapter32\JavaScriptCustomControls\obj\Debug\JavaScriptCustomControls.dll
+D:\Code\Pro ASP.NET 3.5\Chapter32\JavaScriptCustomControls\obj\Debug\JavaScriptCustomControls.pdb
+D:\Code\Pro ASP.NET 3.5\Chapter31\JavaScriptCustomControls\bin\Debug\JavaScriptCustomControls.dll
+D:\Code\Pro ASP.NET 3.5\Chapter31\JavaScriptCustomControls\bin\Debug\JavaScriptCustomControls.pdb
+D:\Code\Pro ASP.NET 3.5\Chapter31\JavaScriptCustomControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 3.5\Chapter31\JavaScriptCustomControls\obj\Debug\JavaScriptCustomControls.dll
+D:\Code\Pro ASP.NET 3.5\Chapter31\JavaScriptCustomControls\obj\Debug\JavaScriptCustomControls.pdb
+D:\Code\Pro ASP.NET 4\_Chapter31\JavaScriptCustomControls\bin\Debug\JavaScriptCustomControls.dll
+D:\Code\Pro ASP.NET 4\_Chapter31\JavaScriptCustomControls\bin\Debug\JavaScriptCustomControls.pdb
+D:\Code\Pro ASP.NET 4\_Chapter31\JavaScriptCustomControls\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\Pro ASP.NET 4\_Chapter31\JavaScriptCustomControls\obj\Debug\JavaScriptCustomControls.dll
+D:\Code\Pro ASP.NET 4\_Chapter31\JavaScriptCustomControls\obj\Debug\JavaScriptCustomControls.pdb

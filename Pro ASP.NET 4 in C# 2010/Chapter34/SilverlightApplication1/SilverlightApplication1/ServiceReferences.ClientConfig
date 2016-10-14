@@ -1,0 +1,17 @@
+﻿<configuration>
+    <system.serviceModel>
+        <bindings>
+            <customBinding>
+                <binding name="CustomBinding_TestService">
+                    <binaryMessageEncoding />
+                    <httpTransport maxReceivedMessageSize="2147483647" maxBufferSize="2147483647" />
+                </binding>
+            </customBinding>
+        </bindings>
+        <client>
+            <endpoint address="http://localhost:1961/SilverlightApplication1.Web/TestService.svc"
+                binding="customBinding" bindingConfiguration="CustomBinding_TestService"
+                contract="ServiceReference1.TestService" name="CustomBinding_TestService" />
+        </client>
+    </system.serviceModel>
+</configuration>

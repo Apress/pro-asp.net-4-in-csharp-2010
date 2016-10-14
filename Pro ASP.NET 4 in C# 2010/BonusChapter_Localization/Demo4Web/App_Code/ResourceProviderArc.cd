@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="Apress.Localization.SimpleSqlResourceProviderFactory">
+    <Position X="0.5" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>App_Code\SimpleSqlResourceProvider.cs</FileName>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Apress.Localization.SimpleSqlResourceProviderFactory.SimpleSqlResourceProvider">
+        <TypeIdentifier>
+          <NewMemberFileName>App_Code\SimpleSqlResourceProvider.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Compartments>
+          <Compartment Name="Fields" Collapsed="true" />
+          <Compartment Name="Properties" Collapsed="true" />
+          <Compartment Name="Methods" Collapsed="true" />
+          <Compartment Name="Nested Types" Collapsed="false" />
+        </Compartments>
+        <NestedTypes>
+          <Class Name="Apress.Localization.SimpleSqlResourceProviderFactory.SimpleSqlResourceProvider.SimpleSqlResourceReader" Collapsed="true">
+            <TypeIdentifier>
+              <NewMemberFileName>App_Code\SimpleSqlResourceProvider.cs</NewMemberFileName>
+            </TypeIdentifier>
+            <Lollipop Position="0.2" />
+          </Class>
+        </NestedTypes>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+  </Class>
+  <Class Name="Apress.Localization.SimpleSqlResourceDesignTimeFactory">
+    <Position X="4.75" Y="0.5" Width="3.25" />
+    <TypeIdentifier>
+      <FileName>App_Code\SimpleSqlResourceProviderDesigner.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAEAAAAAAAAAAAAAFAAAABAEA=</HashCode>
+    </TypeIdentifier>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="Apress.Localization.SimpleSqlResourceDesignTimeFactory.SimpleSqlResourceDesignerProvider" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>App_Code\SimpleSqlResourceProviderDesigner.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="Apress.Localization.SimpleSqlResourceDesignTimeFactory.SimpleSqlResourceDesignerReader" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>App_Code\SimpleSqlResourceProviderDesigner.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+  </Class>
+</ClassDiagram>

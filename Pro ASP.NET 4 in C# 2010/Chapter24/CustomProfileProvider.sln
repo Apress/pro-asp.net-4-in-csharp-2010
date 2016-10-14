@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CustomProfileProvider", "CustomProfileProvider\", "{E57E9FCA-5C70-4962-81A1-EF47D64ECBFA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/CustomProfileProvider"
+		Debug.AspNetCompiler.PhysicalPath = "CustomProfileProvider\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomProfileProvider\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CustomProfileProvider"
+		Release.AspNetCompiler.PhysicalPath = "CustomProfileProvider\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CustomProfileProvider\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "6171"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57E9FCA-5C70-4962-81A1-EF47D64ECBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E57E9FCA-5C70-4962-81A1-EF47D64ECBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

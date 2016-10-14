@@ -1,0 +1,10 @@
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter31\Ch30\ExternalWebPart\bin\Debug\ExternalWebPart.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter31\Ch30\ExternalWebPart\bin\Debug\ExternalWebPart.pdb
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter31\Ch30\ExternalWebPart\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter31\Ch30\ExternalWebPart\obj\Debug\ExternalWebPart.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter31\Ch30\ExternalWebPart\obj\Debug\ExternalWebPart.pdb
+C:\Work\Ch30\ExternalWebPart\bin\Debug\ExternalWebPart.dll
+C:\Work\Ch30\ExternalWebPart\bin\Debug\ExternalWebPart.pdb
+C:\Work\Ch30\ExternalWebPart\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Ch30\ExternalWebPart\obj\Debug\ExternalWebPart.dll
+C:\Work\Ch30\ExternalWebPart\obj\Debug\ExternalWebPart.pdb

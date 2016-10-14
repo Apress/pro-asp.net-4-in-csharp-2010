@@ -1,0 +1,11 @@
+bin\Debug\ASPNETDB.MDF
+bin\Debug\aspnetdb_log.LDF
+bin\Debug\WinMembership.exe.config
+bin\Debug\WinMembership.exe
+bin\Debug\WinMembership.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WinMembership.Form1.resources
+obj\Debug\WinMembership.Properties.Resources.resources
+obj\Debug\WinMembership.csproj.GenerateResource.Cache
+obj\Debug\WinMembership.exe
+obj\Debug\WinMembership.pdb

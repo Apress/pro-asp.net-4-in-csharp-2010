@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "ApplicationServices", "ApplicationServices\", "{03A31302-7038-491D-9843-207C9C8BD4CD}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/ApplicationServices"
+		Debug.AspNetCompiler.PhysicalPath = "D:\Code\Pro ASP.NET 4\Chapter30\ApplicationServices\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\ApplicationServices\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/ApplicationServices"
+		Release.AspNetCompiler.PhysicalPath = "D:\Code\Pro ASP.NET 4\Chapter30\ApplicationServices\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\ApplicationServices\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "6195"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A31302-7038-491D-9843-207C9C8BD4CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A31302-7038-491D-9843-207C9C8BD4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

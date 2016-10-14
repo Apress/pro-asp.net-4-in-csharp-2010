@@ -1,0 +1,5 @@
+bin\Debug\ExternalWebPart.dll
+bin\Debug\ExternalWebPart.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ExternalWebPart.dll
+obj\Debug\ExternalWebPart.pdb

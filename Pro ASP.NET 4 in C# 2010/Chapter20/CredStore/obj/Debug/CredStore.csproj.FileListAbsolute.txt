@@ -1,0 +1,10 @@
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter21\Ch21\CredStore\bin\Debug\CredStore.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter21\Ch21\CredStore\bin\Debug\CredStore.pdb
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter21\Ch21\CredStore\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter21\Ch21\CredStore\obj\Debug\CredStore.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter21\Ch21\CredStore\obj\Debug\CredStore.pdb
+C:\Work\Ch20\CredStore\bin\Debug\CredStore.dll
+C:\Work\Ch20\CredStore\bin\Debug\CredStore.pdb
+C:\Work\Ch20\CredStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Ch20\CredStore\obj\Debug\CredStore.dll
+C:\Work\Ch20\CredStore\obj\Debug\CredStore.pdb

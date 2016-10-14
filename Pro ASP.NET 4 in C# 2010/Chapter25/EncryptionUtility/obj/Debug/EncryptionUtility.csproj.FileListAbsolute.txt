@@ -1,0 +1,10 @@
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter26\Ch26\EncryptionUtility\bin\Debug\EncryptionUtility.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter26\Ch26\EncryptionUtility\bin\Debug\EncryptionUtility.pdb
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter26\Ch26\EncryptionUtility\obj\Debug\ResolveAssemblyReference.cache
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter26\Ch26\EncryptionUtility\obj\Debug\EncryptionUtility.dll
+D:\Data\Microsoft\Internal\Books\ProAspNet20\3rd\FirstDraft\Chapter26\Ch26\EncryptionUtility\obj\Debug\EncryptionUtility.pdb
+C:\Work\Ch25\EncryptionUtility\bin\Debug\EncryptionUtility.dll
+C:\Work\Ch25\EncryptionUtility\bin\Debug\EncryptionUtility.pdb
+C:\Work\Ch25\EncryptionUtility\obj\Debug\ResolveAssemblyReference.cache
+C:\Work\Ch25\EncryptionUtility\obj\Debug\EncryptionUtility.dll
+C:\Work\Ch25\EncryptionUtility\obj\Debug\EncryptionUtility.pdb
